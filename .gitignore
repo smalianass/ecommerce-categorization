@@ -25,7 +25,6 @@ env/
 
 
 *.xls
-*.xlsx
 *.xlsb
 *.parquet
 *.pkl
